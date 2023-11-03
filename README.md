@@ -15,6 +15,9 @@ Welcome to the Music Player project! This simple web-based music player allows y
 - [Jacinto 3](https://github.com/Guadeloupe33/music-player/blob/main/music/jacinto-3.mp3)
 - [Metric 1](https://github.com/Guadeloupe33/music-player/blob/main/music/metric-1.mp3)
 
+![Alt text](img/music  player.jpg " screenshot")
+
+
 ## Images
 
 - [Jacinto 1 Image](https://github.com/Guadeloupe33/music-player/blob/main/img/jacinto-1.jpg)
